@@ -1,0 +1,211 @@
+---
+title: "Preparación y Evaluación de Proyectos"
+subtitle: "Resumen de estudio"
+format: revealjs
+theme: night
+slide-number: true
+---
+
+## El estudio de proyectos
+
+- Búsqueda de una solución inteligente a una necesidad
+- Preinversión: **preparar** (inversiones, costos, beneficios) y **evaluar** (medir rentabilidad)
+- Rentabilidad del proyecto, del inversionista y capacidad de pago
+- El futuro es incierto → la evaluación reduce, no elimina, la incertidumbre
+
+## Proceso de preparación y evaluación
+
+- Los estudios se retroalimentan entre sí
+- Mercado → demanda y ventas
+- Técnico → proceso, equipos, capacidad
+- Organización y legal → requerimientos económicos
+- Financiero → integra toda la información
+
+## Secuencia del proceso
+
+Idea → Alternativas → Estudios → Inversiones/Costos/Beneficios → Flujo de caja → Evaluación → Riesgo/Sensibilidad → **Decisión**
+
+## Estructura del mercado
+
+- Demanda: lo que quieren comprar los consumidores
+- Oferta: lo que quieren vender los productores
+- Estructuras: competencia, oligopolio, monopolio
+- Importa cómo puede **cambiar** el mercado, no solo su estado actual
+
+## Estudio de mercado
+
+- Objetivo: quién compra, cuánto, a qué precio, con qué estrategia
+- Mercados: proveedor, competidor, distribuidor, consumidor, externo
+- Variables clave: producto, precio, promoción, distribución
+- Un error acá se traslada a todo el proyecto
+
+## Proyección del mercado
+
+- **Cualitativos**: opinión de expertos, Delphi
+- **Causales**: regresión y variables explicativas
+- **Series de tiempo**: tendencia, estacionalidad, ciclos
+- Toda proyección es una estimación condicionada a supuestos
+
+## Estimación de costos
+
+- Costos **pertinentes**: los que cambian entre alternativas
+- Costos **sepultados**: ya ocurridos, no influyen en la decisión
+- Punto de equilibrio: **Qe = CF / (P − CVu)**
+- Evaluación económica ≠ contabilidad
+
+## Estudio técnico e ingeniería
+
+- Define proceso, tecnología, equipos, mano de obra, insumos
+- La tecnología más avanzada no siempre es la más conveniente
+- Economías de escala y modelo de Lange
+- Alimenta directamente inversión y costos
+
+## Tamaño del proyecto
+
+- Capacidad de producción → decisión económica
+- Tamaño chico: pierde ventas y escala
+- Tamaño grande: capacidad ociosa
+- Se compara crecer gradual vs. capacidad instalada desde el inicio
+
+## Localización
+
+- Macrolocalización (región) y microlocalización (sitio)
+- Método cualitativo por puntos
+- Método de Brown y Gibson (factores objetivos y subjetivos)
+- Alternativa: comparar VAN entre localizaciones
+
+## Aspectos organizacionales
+
+- Estructura, funciones, personal, sistemas
+- Genera inversión y costos propios
+- No hay una estructura "óptima universal"
+- Depende de tamaño, tecnología y forma comercial
+
+## Estudio legal
+
+- Marco legal → restricciones, inversiones, costos
+- Forma jurídica, tributación, permisos, normas ambientales
+- No basta con saber si es legal: hay que **cuantificar** el efecto
+- Incertidumbre regulatoria a lo largo del proyecto
+
+## Inversiones del proyecto
+
+- Activos fijos + capital de trabajo
+- Capital de trabajo: financia el ciclo operativo
+- Métodos: contable, período de desfase, déficit acumulado máximo
+- El capital de trabajo se recupera al final del horizonte
+
+## Beneficios del proyecto
+
+- Ventas, ahorro de costos, venta de activos, recuperación de capital de trabajo
+- Comparación: **situación con proyecto vs. sin proyecto**
+- Valor de desecho: contable, de mercado o económico
+- Precio: efecto sobre ingresos totales, no solo margen unitario
+
+## Flujo de caja
+
+- Reúne toda la información económica del proyecto
+- Flujo del **proyecto** vs. flujo del **inversionista**
+- La depreciación no es desembolso, pero afecta impuestos
+- EBITDA ≠ flujo de caja
+
+## Tasa de descuento
+
+- Representa el costo de oportunidad de los recursos
+- Costo de deuda vs. costo de capital propio (CAPM)
+- Debe ser consistente con moneda, riesgo y horizonte
+- Error típico: mezclar tasa nominal con flujos reales
+
+## Análisis de riesgo
+
+- Variables futuras pueden desviarse de lo proyectado
+- Métodos: ajuste de tasa, equivalencia a certidumbre, árboles de decisión, Monte Carlo
+- Objetivo: **medir y comunicar** el riesgo, no eliminarlo
+
+## Análisis de sensibilidad
+
+- Mide cuánto cambia el resultado al variar una o más variables
+- Unidimensional vs. multidimensional
+- Ejemplo: ¿cuánto puede caer la demanda antes de que VAN = 0?
+- Sensibilidad ≠ probabilidad
+
+## Evaluación social
+
+- Perspectiva de la comunidad, no solo del inversionista
+- Usa precios sociales o sombra
+- Efectos directos, indirectos, intangibles y externalidades
+- Un proyecto puede ser rentable en lo privado y no en lo social (o viceversa)
+
+# La Yerba Mate en Sudamérica {background-color="#1a3a2a"}
+
+## ¿Qué es la yerba mate?
+
+- Especie silvestre entre Argentina, Brasil, Paraguay y Uruguay
+- Contiene cafeína ("mateína"), teobromina, polifenoles y minerales
+- Efecto estimulante moderado, antioxidante y rol social
+
+## Formas de consumo
+
+- **Mate cebado**: agua caliente, mate y bombilla (AR, UY, sur de BR, PY)
+- **Chimarrão**: mate amargo tradicional de Brasil
+- **Tereré**: infusión fría, típica de Paraguay
+- **Mate cocido/saborizado**: hervido tipo té, para exportación
+
+## El proceso productivo
+
+1. **Cosecha (tarefa)**: poda manual, abril-septiembre
+2. **Sapecado**: fuego breve, detiene la oxidación
+3. **Secado**: hornos u horno de leña, 12-24 hs
+4. **Canchado**: trituración gruesa para transporte
+5. **Estacionamiento**: 9-24 meses (natural) o 30-60 días (acelerado)
+6. **Molienda y envasado**: formatos comerciales finales
+
+::: {.fragment}
+*Se necesitan ~3 kg de hoja verde por cada kg de yerba elaborada*
+:::
+
+## Ventajas del consumo
+
+- Estimulante sin el "pico" ni ansiedad del café
+- Alto poder antioxidante (polifenoles)
+- Aporte de vitaminas B, minerales y aminoácidos
+- Motor de empleo en las economías regionales
+
+## Desventajas del consumo
+
+- Puede causar irritación gástrica en personas sensibles
+- Consumir a más de 65°C se asocia a riesgo esofágico (OMS)
+- Efecto diurético fuerte si no se hidrata en paralelo
+
+## Argentina 🇦🇷
+
+- Mayor productor y exportador mundial (Misiones y Corrientes)
+- 2024: récord de ~987.000 t de hoja verde
+- Consumo interno: ~6 kg per cápita/año
+- 2025: desplazó a Brasil como 1° exportador mundial
+- Regulador: INYM
+
+## Brasil 🇧🇷
+
+- Segundo productor mundial (Rio Grande do Sul, SC, Paraná)
+- Producción en sistemas agroforestales (bajo monte nativo)
+- Fue líder exportador 7 años, hasta 2025
+- Fuerte consumo interno como chimarrão y tereré
+
+## Paraguay 🇵🇾
+
+- Cuna del tereré (Patrimonio Cultural de la Nación, 2010)
+- ~21.000 ha cultivadas, +55.000 familias empleadas
+- Exportaciones 2024: ~7.300 t, principal destino Argentina
+- Fuerte comercio de yerba canchada hacia Argentina y Brasil
+
+## Uruguay 🇺🇾
+
+- Muy alto consumo per cápita, pero **sin producción relevante**
+- Importa yerba de Argentina y Brasil
+- Empresas locales: fraccionadoras/estacionadoras, no productoras
+- Fuerte identidad cultural: mate y termo en la calle
+
+## Gracias
+
+Preguntas y discusión
