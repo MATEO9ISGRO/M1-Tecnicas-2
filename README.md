@@ -45,7 +45,7 @@ Efecto diurético intenso: su consumo excesivo sin hidratación complementaria c
 🇦🇷 Argentina — el mayor productor y exportador mundial
 Argentina concentra su producción casi exclusivamente en las provincias de Misiones (la de mayor peso histórico) y Corrientes. Es la principal economía regional del noreste del país y una actividad muy intensiva en mano de obra, con una cadena que va desde pequeños productores minifundistas hasta grandes cooperativas e industrias integradas.
 
-Datos de producción reciente:
+### Datos de producción reciente:
 
 En 2024 la producción alcanzó un récord de 986.738 toneladas de hoja verde, un 27,4% más que el año anterior.
 La cosecha 2025 se ubicó en torno a las 889.000 toneladas de hoja verde, dentro de un promedio de los últimos cinco años que supera las 890.000 toneladas anuales.
@@ -54,7 +54,8 @@ En 2025 Argentina desplazó a Brasil como principal exportador mundial del secto
 El principal destino histórico de exportación es Siria (por la fuerte comunidad de descendientes sirio-libaneses que adoptó el consumo de mate durante el siglo XX), seguido por Chile, España y Estados Unidos.
 El organismo regulador del sector es el INYM (Instituto Nacional de la Yerba Mate), aunque un decreto reciente (812/2025) le quitó la facultad de fijar precios mínimos a la materia prima, generando tensión entre productores primarios e industria.
 
-Marcas principales: Taragüí y Unión (Grupo Las Marías), Playadito, Rosamonte, CBSé, Amanda (La Cachuera), Cruz de Malta, Nobleza Gaucha, Andresito, La Merced.
+### Marcas principales: 
+Taragüí y Unión (Grupo Las Marías), Playadito, Rosamonte, CBSé, Amanda (La Cachuera), Cruz de Malta, Nobleza Gaucha, Andresito, La Merced.
 🇧🇷 Brasil — el segundo productor y gran exportador de chimarrão
 En Brasil, el cultivo se concentra en los estados sureños de Rio Grande do Sul, Santa Catarina y Paraná, dentro de la ecorregión de la Mata Atlántica/selva paranaense, donde buena parte de la producción proviene de sistemas agroforestales (yerba mate bajo monte nativo), a diferencia del monocultivo más extendido en Argentina.
 
@@ -63,7 +64,8 @@ Fue el principal exportador mundial durante siete años consecutivos (hasta que 
 El consumo interno se concentra fuertemente en el sur del país bajo la forma de chimarrão (mate amargo, cebado en grupo) y, en el centro-oeste, como tereré.
 Brasil también es un fuerte proveedor de yerba canchada semielaborada hacia Paraguay y Argentina, lo que a veces genera tensiones comerciales (etiquetados, controles sanitarios) entre los tres países.
 
-Marcas principales: Barão (Baldo), Pajarito, Mate Laranjeiras, Kalil, Chimarrão Tio Bilo.
+### Marcas principales: 
+Barão (Baldo), Pajarito, Mate Laranjeiras, Kalil, Chimarrão Tio Bilo.
 🇵🇾 Paraguay — cuna del tereré y fuerte identidad exportadora
 En Paraguay el cultivo se distribuye en los departamentos de Itapúa, Guairá, Caazapá, Alto Paraná, Canindeyú y San Pedro, sobre unas 21.000 hectáreas cultivadas, y da empleo directo e indirecto a más de 55.000 familias (70% en el campo, 30% en la industria).
 
@@ -73,7 +75,8 @@ Los principales destinos son Argentina, España, Siria, Brasil, Bolivia y, en ex
 Paraguay es la cuna del tereré, la infusión fría que se prepara con agua helada, hielo y hierbas frescas (yuyos), y que en 2010 fue declarada Patrimonio Cultural de la Nación.
 Existe un flujo comercial cruzado importante con Argentina: buena parte de la yerba paraguaya (y brasileña) ingresa como materia prima semielaborada ("canchada") a Misiones y Corrientes, lo que ha generado periódicamente conflictos entre productores argentinos y el Centro Yerbatero Paraguayo por diferencias cambiarias y controles sanitarios.
 
-Marcas principales: Selecta, Pajarito (también producida en Paraguay), Kurupi, La Hoja.
+### Marcas principales: 
+Selecta, Pajarito (también producida en Paraguay), Kurupi, La Hoja.
 🇺🇾 Uruguay — el gran consumidor sin producción propia relevante
 Uruguay es un caso atípico: es uno de los países de mayor consumo de mate per cápita del mundo (comparable o incluso superior al de Argentina en algunas mediciones), pero su clima y condiciones agroecológicas no favorecen el cultivo de Ilex paraguariensis a escala comercial significativa.
 
