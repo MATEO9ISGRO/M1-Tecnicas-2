@@ -30,12 +30,12 @@ Un dato relevante de eficiencia: se necesitan aproximadamente 3 kilos de hoja ve
 
 
 ## 3. Ventajas y desventajas del consumo de yerba mate
-Ventajas
+### Ventajas
 Efecto estimulante superior: contiene cafeína (a menudo llamada "mateína"), teobromina y teofilina, lo que brinda un estado de alerta prolongado sin el "pico" ni la ansiedad habitual asociados al café.
 Alto valor antioxidante: es rica en polifenoles, en particular ácido clorogénico, con un poder antioxidante que supera al del té verde.
 Aporte nutricional: contiene vitaminas del grupo B, minerales (potasio, magnesio, hierro) y aminoácidos.
 Motor socioeconómico: genera miles de empleos directos e indirectos en economías regionales agrícolas e industriales de los cuatro países.
-Desventajas
+### Desventajas
 Irritación gástrica: en personas sensibles, la acidez de la infusión o su ingesta con el estómago vacío puede causar molestias estomacales.
 Riesgo por temperatura: consumir la infusión a temperaturas extremas (superiores a 65 °C) está asociado por la Organización Mundial de la Salud con irritación del esófago.
 Efecto diurético intenso: su consumo excesivo sin hidratación complementaria con agua puede acelerar la pérdida de fluidos.
