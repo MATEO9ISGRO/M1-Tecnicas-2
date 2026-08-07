@@ -1,6 +1,6 @@
 # M1-Tecnicas-2
 # Proyecto Final 
-## 1. Introducción:¿Qué es la yerba mate?
+### 1. Introducción:¿Qué es la yerba mate?
 
 La Yerba Mate en Sudamérica: Producción, Cultura y Aprovechamiento de Residuos
 
