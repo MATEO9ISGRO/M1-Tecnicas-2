@@ -1,6 +1,6 @@
 # PREPARACIÓN Y EVALUACIÓN DE PROYECTOS
 
-# Resumen de estudio basado en la quinta edición de Nassir Sapag Chain y Reinaldo Sapag Chain.
+# Resumen de estudio 
 
 ## Objetivo: 
 Disponer de una síntesis de aproximadamente 20 hojas para estudiar los conceptos centrales, relaciones, fórmulas y criterios de evaluación del libro.
