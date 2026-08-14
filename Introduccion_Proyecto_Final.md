@@ -76,7 +76,6 @@ Los principales destinos son Argentina, España, Siria, Brasil, Bolivia y, en ex
 Paraguay es la cuna del tereré, la infusión fría que se prepara con agua helada, hielo y hierbas frescas (yuyos), y que en 2010 fue declarada Patrimonio Cultural de la Nación.
 Existe un flujo comercial cruzado importante con Argentina: buena parte de la yerba paraguaya (y brasileña) ingresa como materia prima semielaborada ("canchada") a Misiones y Corrientes, lo que ha generado periódicamente conflictos entre productores argentinos y el Centro Yerbatero Paraguayo por diferencias cambiarias y controles sanitarios.
 
-### Marcas principales: 
 Selecta, Pajarito (también producida en Paraguay), Kurupi, La Hoja.
 🇺🇾 Uruguay — el gran consumidor sin producción propia relevante
 Uruguay es un caso atípico: es uno de los países de mayor consumo de mate per cápita del mundo (comparable o incluso superior al de Argentina en algunas mediciones), pero su clima y condiciones agroecológicas no favorecen el cultivo de Ilex paraguariensis a escala comercial significativa.
