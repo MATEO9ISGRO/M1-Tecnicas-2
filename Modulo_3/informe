@@ -1,0 +1,25 @@
+Análisis del hierro de las fotos
+
+Qué es el material
+
+Es una barra de acero corrugado (comúnmente llamado "hierro de construcción" o "varilla de refuerzo"), del tipo que se usa como armadura en hormigón armado. Se identifica por:
+
+El corrugado helicoidal/transversal en la superficie, que no es decorativo: aumenta la adherencia mecánica entre el acero y el hormigón (mayor superficie de contacto y anclaje mecánico, evitando el deslizamiento de la barra dentro de la masa de hormigón).
+El diámetro pequeño (parece un hierro del orden de 8-10 mm), típico de estribos o armaduras secundarias.
+Metalúrgicamente es un acero de bajo/medio carbono (normalmente aleaciones tipo ADN 420 según norma IRAM en Argentina), obtenido por laminación en caliente. Microestructuralmente es ferrita-perlita, lo que le da una combinación de resistencia moderada y buena ductilidad (justamente la ductilidad es la propiedad que se pone a prueba en la geometría que se ve en la foto 3).
+
+A qué se debe el deterioro visible
+
+La superficie muestra una coloración marrón-rojiza, rugosa y escamosa, típica de corrosión atmosférica del acero (oxidación). El mecanismo es electroquímico:
+
+El hierro (Fe) se oxida en presencia de humedad y oxígeno, formando óxidos e hidróxidos de hierro (herrumbre: mezcla de Fe₂O₃, Fe₃O₄ y FeO(OH) hidratados).
+Esto ocurre porque la pieza estuvo expuesta a la intemperie o a un ambiente húmedo sin protección (sin galvanizado, pintura anticorrosiva, ni recubrimiento de hormigón que la aislara del ambiente).
+El óxido formado es poroso y no protector (a diferencia, por ejemplo, del óxido de aluminio), por lo que la corrosión avanza progresivamente hacia el interior de la sección, reduciendo el área resistente efectiva con el tiempo.
+
+Por qué "falló" 
+
+Acá hay que distinguir dos cosas:
+
+No es una fractura frágil — la barra no se partió en dos ni presenta grieta abierta. Lo que se observa es una deformación plástica por flexión (un doblado), consistente con el comportamiento dúctil esperado de un acero de bajo carbono.
+Esto es compatible con un ensayo de plegado (bend test), un ensayo normalizado (IRAM/ASTM) que se usa justamente para verificar la ductilidad de las barras de refuerzo: se dobla la barra a un ángulo determinado (90°, 180°) alrededor de un mandril, y se controla que no aparezcan grietas superficiales en la zona de tracción (la cara externa del doblez).
+
