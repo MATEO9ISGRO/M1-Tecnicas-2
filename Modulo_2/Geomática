@@ -1,0 +1,165 @@
+Resumen de Geomática
+1. Definición formal y alcance de la geomática
+
+Definición: La geomática es la disciplina que integra la adquisición, el almacenamiento, el procesamiento, el análisis, la visualización y la difusión de datos georreferenciados (datos con una posición en el espacio terrestre). El término surge de combinar geodesia e informática.
+
+Alcance: Reúne técnicas y herramientas de varias áreas:
+
+Adquisición: topografía, GNSS/GPS, teledetección (satélites, drones), LiDAR, fotogrametría.
+Gestión: bases de datos espaciales, infraestructuras de datos espaciales (IDE).
+Análisis: SIG, estadística espacial, geocomputación.
+Difusión: cartografía, web mapping, servicios OGC (WMS, WFS).
+
+Aplicaciones típicas: ordenamiento territorial, agricultura de precisión, gestión de recursos hídricos, ingeniería civil e industrial, logística y transporte, catastro, gestión de riesgos y medio ambiente.
+
+2. Repaso de bases de datos y SQL
+
+Conceptos base
+
+Base de datos: colección organizada de datos; el SGBD (PostgreSQL, MySQL, SQLite, etc.) la administra.
+Modelo relacional: datos en tablas (filas = registros, columnas = atributos).
+Claves: primaria (identifica unívocamente un registro) y foránea (vincula tablas).
+Normalización: reducir redundancia (1FN, 2FN, 3FN).
+Propiedades ACID: atomicidad, consistencia, aislamiento, durabilidad.
+
+SQL: lenguajes
+
+DDL (definición): CREATE, ALTER, DROP.
+DML (manipulación): INSERT, UPDATE, DELETE.
+DQL (consulta): SELECT.
+DCL (control): GRANT, REVOKE.
+
+Consulta básica
+
+sql
+SELECT campo1, COUNT(*) AS total
+FROM tabla
+WHERE condicion
+GROUP BY campo1
+HAVING COUNT(*) > 5
+ORDER BY total DESC;
+
+JOINs: INNER JOIN (coincidencias en ambas), LEFT/RIGHT JOIN (todos de un lado), FULL JOIN (todos de ambos).
+
+Extensión espacial: PostgreSQL + PostGIS (o SpatiaLite en SQLite) agrega el tipo geometry/geography y funciones espaciales como ST_Area, ST_Distance, ST_Intersects, ST_Buffer, ST_Within, ST_Transform.
+
+3. Formatos de almacenamiento de información georreferenciada
+Modelos de datos
+Vectorial: puntos, líneas y polígonos definidos por coordenadas, con atributos asociados.
+Ráster: matriz de celdas (píxeles) con valores (imágenes satelitales, modelos digitales de elevación).
+Archivos planos / de intercambio
+Formato	Tipo	Características
+Shapefile (.shp, .shx, .dbf, .prj)	Vector	Estándar de Esri, muy difundido; múltiples archivos; límites de 2 GB y nombres de campo de 10 caracteres
+GeoJSON	Vector	Basado en JSON, legible, ideal para web
+GeoPackage (.gpkg)	Vector/Ráster	Estándar OGC, un único archivo basado en SQLite; alternativa moderna al shapefile
+KML/KMZ	Vector	Formato de Google Earth
+GML	Vector	XML de OGC
+CSV con coordenadas	Puntos	Simple, columnas X/Y (lon/lat)
+GeoTIFF	Ráster	TIFF con información de georreferenciación
+LAS/LAZ	Nube de puntos	Datos LiDAR (LAZ = comprimido)
+En motores de bases de datos
+PostGIS (PostgreSQL): el más completo y usado en código abierto.
+SpatiaLite (SQLite), Oracle Spatial, SQL Server Spatial, MySQL Spatial.
+Ventajas: consultas espaciales con SQL, índices espaciales (GiST), multiusuario, integridad y escalabilidad.
+Conceptos clave
+SRC/CRS (Sistema de Referencia de Coordenadas): identificado por código EPSG (ej. EPSG:4326 = WGS84 geográfico; en Argentina, POSGAR 2007 / faja Gauss-Krüger, como EPSG:5346 a 5348 para fajas 4 a 6, o similares).
+Geometrías OGC: Point, LineString, Polygon, MultiPoint, MultiLineString, MultiPolygon; formatos WKT (texto) y WKB (binario).
+4. Sistemas de Información Geográfica (GIS) – QGIS
+
+SIG: sistema que integra hardware, software, datos y personas para capturar, almacenar, analizar y visualizar información geográfica.
+
+QGIS (Quantum GIS): SIG de código abierto, multiplataforma y gratuito.
+
+Características principales
+
+Lectura de múltiples formatos (vectoriales, ráster, bases de datos PostGIS, servicios WMS/WFS) mediante GDAL/OGR.
+Interfaz: panel de capas, lienzo de mapa, tabla de atributos, caja de herramientas de procesos, compositor de impresión (layouts).
+Simbología y etiquetado: categorizado, graduado, basado en reglas.
+Edición: digitalización, topología, edición de atributos.
+Consultas y selección: por atributo (expresiones), por localización.
+Calculadora de campos y expresiones.
+Complementos (plugins) y scripting en Python (PyQGIS).
+Integración con GRASS, SAGA y R desde Processing.
+
+Flujo de trabajo típico:
+
+Cargar datos y definir el SRC del proyecto.
+Reproyectar capas si es necesario.
+Analizar (geoprocesos, consultas).
+Simbolizar y componer el mapa.
+Exportar resultados (mapa, capas, informe).
+5. Nubes de puntos, líneas, polígonos y operaciones
+Nubes de puntos
+
+Conjuntos masivos de puntos con coordenadas (X, Y, Z) y, a veces, atributos (intensidad, color RGB, clasificación).
+
+Fuentes: LiDAR aéreo/terrestre, fotogrametría (SfM), escáner láser.
+Formatos: LAS/LAZ, XYZ, PLY.
+Usos: modelos digitales de terreno (MDT) y de superficie (MDS), extracción de edificios y vegetación, volúmenes.
+Clasificación típica (LAS): terreno, vegetación, edificios, agua.
+Operaciones sobre vectores
+
+Geoprocesos comunes
+
+Buffer (zona de influencia): área a una distancia dada de un objeto.
+Clip (recorte): recorta una capa con otra.
+Intersección: la parte común de dos capas, conservando atributos de ambas.
+Unión: combina geometrías y atributos de dos capas.
+Diferencia: parte de una capa que no se superpone con otra.
+Disolución (dissolve): fusiona entidades según un atributo.
+Centroide: punto central de un polígono.
+Envolvente convexa (convex hull).
+Simplificación / suavizado.
+Unión espacial (spatial join): transfiere atributos según la relación espacial.
+
+Relaciones topológicas (predicados espaciales): intersects, contains, within, touches, crosses, overlaps, disjoint, equals.
+
+Mediciones: longitud (líneas), perímetro y área (polígonos), distancia entre objetos.
+
+Redes (líneas): cálculo de rutas óptimas, áreas de servicio, conectividad.
+
+Ráster (complemento): álgebra de mapas, reclasificación, pendiente, aspecto, interpolación (IDW, kriging, TIN) a partir de puntos.
+
+6. Geocomputación en R
+
+Geocomputación: uso de código y computación para analizar, modelar y visualizar datos espaciales de forma reproducible.
+
+Paquetes principales
+
+Paquete	Función
+sf (simple features)	Manejo de datos vectoriales; estándar actual
+terra / raster	Datos ráster
+stars	Arreglos espacio-temporales
+tmap, ggplot2 (geom_sf), leaflet, mapview	Visualización estática e interactiva
+lwgeom, units	Cálculos geométricos y unidades
+gstat	Geoestadística (variogramas, kriging)
+spdep	Autocorrelación espacial
+RPostgres / DBI	Conexión con PostGIS
+
+Ejemplo de flujo básico
+
+r
+library(sf)
+library(ggplot2)
+
+# Leer datos
+zonas <- st_read("zonas.gpkg")
+
+# Ver y transformar el SRC
+st_crs(zonas)
+zonas <- st_transform(zonas, 5346)
+
+# Operaciones
+zonas$area <- st_area(zonas)
+buf <- st_buffer(zonas, dist = 500)
+inter <- st_intersection(zonas, buf)
+
+# Graficar
+ggplot(zonas) + geom_sf(aes(fill = area))
+
+# Guardar
+st_write(zonas, "salida.gpkg")
+
+Funciones equivalentes a PostGIS/QGIS en sf: st_buffer, st_intersection, st_union, st_difference, st_centroid, st_distance, st_join, st_intersects, st_within.
+
+Ventajas de R frente a un SIG de escritorio: reproducibilidad (scripts), automatización de tareas repetitivas, integración con estadística avanzada y machine learning, y generación de informes (R Markdown/Quarto).
