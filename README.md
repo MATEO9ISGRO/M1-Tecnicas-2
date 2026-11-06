@@ -2,9 +2,12 @@
 
 Integrantes:
 
-| Nombre | Enlaces de Repositorios Individuales |
-|:------:|:-------------------------------------|
-| Nombre Apellido 1 | https://github.com/usuario1/nombre-repo |
-| Nombre Apellido 2 | https://github.com/usuario2/nombre-repo |
-| Nombre Apellido 3 | https://github.com/usuario3/nombre-repo |
-| Nombre Apellido 4 | https://github.com/usuario4/nombre-repo |
+| Nombre | Legajo |
+|:------:|:------:|
+| Joaquín Bresci | 14501 |
+| Mateo Isgro | 14365 |
+| Edgar de Sequeira | - |
+| Ian Cañadas | 14106 |
+| Andrés Cotignola | 14496 |
+| Bautista Zanetti | 14401 |
+| Luca Salvo | 14529 |
