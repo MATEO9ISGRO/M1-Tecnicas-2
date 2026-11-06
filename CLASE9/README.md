@@ -33,4 +33,24 @@ Son aquellas variables controlables que forman parte de la estructura interna de
 Factores externos que impactan el sistema pero cuyo control no depende de la estructura interna:
 
 * 🏛️ **Políticas Fiscales:** Regulaciones tributarias e impuestos.
-* 👥 **Factores Sociales:** Ent
+* 👥 **Factores Sociales:** Entorno socioeconómico y nivel de escolaridad.
+* 🍽️ **Servicios Secundarios:** Servicios auxiliares no críticos (comedor, mantenimiento externo).
+
+---
+
+## 💻 Simulación con Vensim PLE
+
+El desarrollo práctico se ejecutó en **Vensim PLE** (*Personal Learning Edition*), utilizado para:
+
+1. **Diagramas Causal Loop (CLD):** Identificación de bucles de realimentación positiva y negativa.
+2. **Diagramas de Forrester (Stock & Flow):** Representación de variables de nivel (acumulaciones) y flujos (tasas de cambio).
+3. **Simulación Temporal:** Evaluación del comportamiento dinámico del sistema ante variaciones en sus parámetros.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+| Herramienta | Aplicación en el Módulo |
+| :--- | :--- |
+| **Vensim PLE** | Construcción de diagramas de causalidad, flujo y acumulaciones, e integración de ecuaciones para simulación temporal. |
+| **RMarkdown / LaTeX** | Documentación formal de ecuaciones de nivel y síntesis metodológica del modelo. |
