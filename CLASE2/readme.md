@@ -1,15 +1,10 @@
-# 📚 Clase 2: IA Generativa
-
-**Profesora:** Ing. Selva S. Rivera  
-**Herramienta principal:** NotebookLM  
-
+# Clase 2: IA Generativa
 ---
-
-## 🤖 ¿Qué es la Inteligencia Artificial?
+## ¿Qué es la Inteligencia Artificial?
 
 La Inteligencia Artificial opera mediante algoritmos que procesan grandes volúmenes de datos a través de un **procedimiento estocástico avanzado en un espacio vectorial de alta dimensión**, generando así resultados probabilísticos.
 
-### ⚙️ Proceso de Funcionamiento:
+### Proceso de Funcionamiento:
 
 1. **Tokenización (Discretización del Lenguaje):**
    * Proceso de muestreo y cuantización del texto.
@@ -25,7 +20,7 @@ La Inteligencia Artificial opera mediante algoritmos que procesan grandes volúm
 
 ---
 
-## 💡 ¿Cómo utilizar la IA Generativa?
+## ¿Cómo utilizar la IA Generativa?
 
 * **Ponderación del Prompt:** La precisión y estructura de la instrucción condicionan la calidad de la respuesta.
 * **Tono y Lenguaje:** Evitar muletillas como *"Por favor"* si se buscan respuestas estrictamente técnicas y directas.
@@ -33,7 +28,7 @@ La Inteligencia Artificial opera mediante algoritmos que procesan grandes volúm
 
 ---
 
-## 📝 Estructura de un Prompt Eficiente
+## Estructura de un Prompt Eficiente
 
 ### 1. Para Texto e Instrucciones:
 * **Rol esperado:** Desde qué perspectiva o perfil debe responder la herramienta.
@@ -52,13 +47,4 @@ La Inteligencia Artificial opera mediante algoritmos que procesan grandes volúm
 * **Composición:** Ángulo de cámara, encuadre, plano.
 
 ---
-
-## 📄 TRABAJO PRÁCTICO N°1: Selección y Evaluación de Factibilidad del TFC con Gemini Notebook
-
-* **Tema elegido:** Pellets de Biomasa Mixtos como fertilizante
-
-### 🔗 Enlaces del Proyecto:
-* 📓 [**Gemini Notebook del Proyecto**](https://notebook.google.com/notebook/369b2340-8493-4327-87b3-d4b2dcb5c2b1)
-* 📄 [**Informe en Google Drive**](https://docs.google.com/document/d/1BVMNkAZpg1KXMMnJif_5F2o6qgVeGHtigqUSLsVtfko/edit?tab=t.0)
-* 📥 [**Descargar TP1 en formato LaTeX (.zip)**](https://github.com/allaymaria/TyHM2/raw/main/Clase%202/TP1.zip)
  
