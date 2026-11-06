@@ -56,7 +56,7 @@ graph LR
     D --> E("Procesamiento: Peletización / Biocompuestos")
     E --> F("Control de Calidad y Empaque")
     F --> G["Comercialización y Aplicación"]
-
+```
 Externalidades: efectos positivos o negativos que exceden a la institución inversora, como contaminación o efectos redistributivos.
 
 Impuestos y subsidios pueden recibir un tratamiento diferente en la evaluación social porque pueden representar transferencias dentro de la comunidad.
