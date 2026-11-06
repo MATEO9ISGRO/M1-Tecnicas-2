@@ -37,4 +37,6 @@ Para garantizar precisión métrica en el cálculo de superficies ($m^2$), el pr
 
 | Herramienta | Función en el Módulo |
 | :--- | :--- |
-| **
+| **QGIS** | Procesamiento ráster, digitalización vectorial y cálculo de superficies proyectadas. |
+| **Copernicus Browser (Sentinel-2)** | Adquisición de imágenes satelitales multiespectrales de baja cobertura nubosa. |
+| **GeoPackage (.gpkg)** | Almacenamiento estructurado de capas vectoriales de puntos y polígonos. |
