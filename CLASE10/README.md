@@ -51,4 +51,6 @@ Síntesis de la disertación a cargo de **Magdalena Day** (Investigadora del CON
 
 | Herramienta | Aplicación en el Módulo |
 | :--- | :--- |
-| **
+| **Vensim PLE (`.mdl`)** | Construcción de modelos computacionales de flujo/nivel y análisis de estructuras oscilatorias. |
+| **Plataformas Academicas** | Búsqueda, filtrado y validación de literatura científica (ORCID, arXiv, ResearchGate). |
+| **Raw Maps** | Gestión y análisis transversal de herramientas geoespaciales. |
