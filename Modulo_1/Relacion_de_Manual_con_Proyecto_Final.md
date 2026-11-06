@@ -50,12 +50,12 @@ La falta de una gestión adecuada para estos descartes genera elevados costos de
 
 ```mermaid
 graph LR
-    A["Residuos de Yerba Mate"] --> B("Recolección y Clasificación")
+    A["Residuos de Yerba Mate" --> B("Recolección y Clasificación")
     B --> C("Secado y Acondicionamiento")
     C --> D("Tratamiento / Extracción")
     D --> E("Procesamiento: Peletización / Biocompuestos")
     E --> F("Control de Calidad y Empaque")
-    F --> G["Comercialización y Aplicación"]
+    F --> G"Comercialización y Aplicación"]
 
 Externalidades: efectos positivos o negativos que exceden a la institución inversora, como contaminación o efectos redistributivos.
 
