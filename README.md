@@ -2,7 +2,7 @@
 
 Repositorio grupal de la cátedra **Técnicas y Herramientas 2**.
 
-## 🎓 Datos de la cursada
+## 🎓 Datos academicos
 
 - **Universidad:** Universidad Nacional de Cuyo
 - **Carrera:** Ingeniería Industrial
